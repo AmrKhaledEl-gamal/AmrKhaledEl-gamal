@@ -45,10 +45,7 @@ I'm a **Back-End Software Engineer** focused on building **scalable, maintainabl
 
 ---
 
-## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=AmrKhaledEl-gamal&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
----
 
 
 اظبطه 
