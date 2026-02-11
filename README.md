@@ -52,9 +52,6 @@ I'm a **Back-End Software Engineer** focused on building **scalable, maintainabl
 ![PHP Trophy](https://img.shields.io/badge/PHP-Expert-purple?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel Trophy](https://img.shields.io/badge/Laravel-Pro-red?style=for-the-badge&logo=laravel&logoColor=white)
 ![MySQL Trophy](https://img.shields.io/badge/MySQL-Expert-blue?style=for-the-badge&logo=mysql&logoColor=white)
-
-> ملاحظ: GitHub Trophy API أحيانًا مش شغال، فالبديل ده عبارة عن badges ثابتة بتعكس خبرتك.
-
 ---
 
 ## 🎯 Fun Fact
