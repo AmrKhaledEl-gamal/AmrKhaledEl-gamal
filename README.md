@@ -36,14 +36,7 @@ I'm a **Back-End Software Engineer** focused on building **scalable, maintainabl
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 
 
----
 
-## 📊 GitHub Stats
-
-![Streak](https://nirzak-streak-stats.vercel.app/?user=AmrKhaledEl-gamal&theme=dark&hide_border=false)  
-
-
----
 
 
  
