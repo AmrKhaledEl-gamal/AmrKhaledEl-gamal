@@ -1,73 +1,18 @@
-```markdown
-# 🚀 Amr Khaled El-Gamal
+# 💫 About Me:
+🏗 I’m currently working on:<br>Lumina Startup – Developing scalable back-end systems with PHP & Laravel, and building database-driven applications.<br><br>🤝 I’m looking to collaborate on:<br>Web applications, APIs, and backend projects that involve PHP, Laravel, MySQL, and performance optimization.<br><br>✋ I’m looking for help with:<br>Exploring advanced cloud deployments, containerization with Docker, and integrating modern back-end technologies.<br><br>🌱 I’m currently learning:<br>Advanced Laravel techniques, RESTful API design patterns, and performance optimization strategies.<br><br>💬 Ask me about:<br>Back-End development, PHP, Laravel, MySQL, API design, and scalable systems.<br><br>⚡ Fun fact:<br>Always curious and learning, whether it’s a new PHP trick or a modern backend architecture improvement.
 
-This repository houses projects and contributions from Amr Khaled El-Gamal, a Back-End Software Engineer specializing in PHP and MySQL, with a strong affinity for the Laravel framework.
 
----
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/amr.k.elgamal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/amr-khaled-el-gamal/) 
 
-## 🌟 About the Author
-
-Amr Khaled El-Gamal is a dedicated Back-End Software Engineer focused on developing scalable, maintainable, and high-performance systems. With a passion for PHP, Laravel, API design, and optimizing database-driven applications, Amr brings a wealth of expertise to backend development.
-
-**Key Strengths:**
-
-*   🔹 Proficient in **PHP, MySQL, and Laravel**.
-*   🔹 Experienced in **RESTful API design**, **Object-Oriented Programming (OOP)**, and **SOLID principles**.
-*   🔹 Skilled in **database architecture** and **backend development best practices**.
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AmrKhaledEl-gamal&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AmrKhaledEl-gamal&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmrKhaledEl-gamal&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=AmrKhaledEl-gamal&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🛠️ Features
-
-*   **Scalable Backend Solutions:** Design and implementation of backend systems built for growth and efficiency.
-*   **Robust API Development:** Creation of well-structured and performant RESTful APIs.
-*   **Database Optimization:** Expertise in MySQL database design and performance tuning.
-*   **Laravel Framework Utilization:** Leveraging the power and elegance of the Laravel framework for rapid and secure application development.
-
----
-
-## 📥 Installation
-
-To clone this repository and begin exploring the projects, please use the following command:
-
-```bash
-git clone https://github.com/AmrKhaledEl-gamal/AmrKhaledEl-gamal.git
-```
-
-Once cloned, navigate to the project directory of interest. Specific installation instructions for individual projects within the repository will be detailed in their respective `README.md` files.
-
----
-
-## 💡 Usage
-
-Examples of how to use the projects within this repository will vary depending on the specific project. Please refer to the `README.md` file located within each project's directory for detailed usage instructions and code examples.
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! If you have suggestions for improvements or new features, please feel free to:
-
-1.  Fork the repository.
-2.  Create a new branch (`git checkout -b feature/your-feature-name`).
-3.  Make your changes.
-4.  Commit your changes (`git commit -m 'Add some feature'`).
-5.  Push to the branch (`git push origin feature/your-feature-name`).
-6.  Open a Pull Request.
-
-Please ensure your code adheres to the coding standards of the specific project you are contributing to.
-
----
-
-## ⚖️ License
-
-This project is not currently under a specified license.
-```
-
----
-
-<p align="center">
-  <a href="https://readmeforge.app?utm_source=badge">
-    <img src="https://readmeforge.app/badge.svg" alt="Made with ReadmeForge" height="20">
-  </a>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
