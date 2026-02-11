@@ -39,9 +39,9 @@ I'm a **Back-End Software Engineer** focused on building **scalable, maintainabl
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=AmrKhaledEl-gamal&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
+
 ![Streak](https://nirzak-streak-stats.vercel.app/?user=AmrKhaledEl-gamal&theme=dark&hide_border=false)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmrKhaledEl-gamal&theme=dark&hide_border=false&include_all_commits=false&layout=compact)
+
 
 ---
 
@@ -50,5 +50,5 @@ I'm a **Back-End Software Engineer** focused on building **scalable, maintainabl
 
 ---
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=AmrKhaledEl-gamal&icon=0&color=0)](https://visitcount.itsvg.in)
+
 اظبطه 
