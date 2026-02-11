@@ -41,15 +41,18 @@ I'm a **Back-End Software Engineer** focused on building **scalable, maintainabl
 
 ---
 
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=AmrKhaledEl-gamal&theme=dark&show_icons=true&count_private=true)  
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=AmrKhaledEl-gamal&theme=dark)  
+## 📊 GitHub Stats (Stable Version)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmrKhaledEl-gamal&theme=dark&show_icons=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmrKhaledEl-gamal&theme=dark&layout=compact)
 
 ---
 
-## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=AmrKhaledEl-gamal&theme=radical&margin-w=4)
+## 🏆 GitHub Trophies (Static Badges)
+![C++ Trophy](https://img.shields.io/badge/C++-Expert-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![PHP Trophy](https://img.shields.io/badge/PHP-Expert-purple?style=for-the-badge&logo=php&logoColor=white)
+![Laravel Trophy](https://img.shields.io/badge/Laravel-Pro-red?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL Trophy](https://img.shields.io/badge/MySQL-Expert-blue?style=for-the-badge&logo=mysql&logoColor=white)
+.
 
 ---
 
@@ -58,4 +61,5 @@ I enjoy **optimizing complex systems**, **experimenting with media handling**, a
 
 ---
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=AmrKhaledEl-gamal&icon=0&color=0)](https://visitcount.itsvg.in)
+## 👁 Profile Views (Static Badge)
+![Profile Views](https://img.shields.io/badge/Profile%20Views-👀-blue?style=for-the-badge)
