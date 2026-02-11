@@ -46,6 +46,4 @@ I'm a **Back-End Software Engineer** focused on building **scalable, maintainabl
 ---
 
 
-
-
-اظبطه 
+ 
