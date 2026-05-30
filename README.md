@@ -86,5 +86,8 @@ GPA: 3.2 / 4.0
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmrKhaledEl-gamal&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmrKhaledEl-gamal&theme=dark&hide_border=false&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AmrKhaledEl-gamal&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmrKhaledEl-gamal&theme=dark&hide_border=false&layout=compact" height="150" alt="languages"/>
+</div>
