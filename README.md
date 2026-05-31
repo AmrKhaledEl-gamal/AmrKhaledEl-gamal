@@ -3,7 +3,7 @@
 
 # Hey, I'm Amr Khaled El-Gamal 👋
 
-🏗️ **Junior Backend Engineer** · Co-founder @ [LuminaDevEg](https://luminadeveg.com/)
+🏗️ **Junior Backend Engineer**  @ [LuminaDevEg](https://luminadeveg.com/)
 Building scalable APIs and production backend systems with PHP & Laravel.
 
 📍 Egypt, Damanhour  |  🎓 CS @ Damanhour University · GPA: 3.2/4.0
@@ -19,7 +19,7 @@ Building scalable APIs and production backend systems with PHP & Laravel.
 
 | | Company & Role | Stack | Period |
 |---|---|---|---|
-| 🚀 | [**LuminaDevEg**](https://luminadeveg.com/) — Co-founder & Backend Lead · AI-powered software startup | Laravel · PHP · MySQL · VPS | Aug 2025 – Present |
+| 🚀 | [**LuminaDevEg**](https://luminadeveg.com/) — Backend Lead · AI-powered software startup | Laravel · PHP · MySQL · VPS | Aug 2025 – Present |
 | 💼 | **Almobtaker Alaraby** — Backend Developer · Remote · Production systems & VPS deployment | Laravel · JWT · Apache | Jul 2025 – Present |
 | 🌍 | **Freelance Backend Developer** · 15+ projects for local & international clients | Laravel · OOP · REST API · Design Patterns | Jun 2024 – Present |
 
