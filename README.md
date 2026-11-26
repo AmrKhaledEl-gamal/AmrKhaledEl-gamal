@@ -18,7 +18,19 @@ I co-founded LuminaDevEg, an AI-powered software startup, and I work remotely as
 Currently deepening my toolkit with Redis, Docker, PHPUnit and Laravel Queues. Open to back-end roles and select freelance projects - let's build something solid.
 </p>
 
-<br>
+<h3>Featured Work</h3>
+
+**MK Agency - Multi-Dashboard CRM** · `Laravel` `JWT` `MySQL`
+CRM platform with 4 interconnected dashboards and 20+ API endpoints, JWT-secured role-based access control.
+
+**Pheron Logistics - Enterprise Enhancements** · `Laravel` `Analytics`
+Extended 6 production systems for one of Egypt's largest logistics companies: CRUD operations, analytics charts and custom workflows.
+
+**Leo Jewelry - E-Commerce Backend** · `Laravel` `MVC`
+Product management, category filtering, inventory logic and navigation for an international store.
+
+**Atlas Tours - Travel Booking Backend** · `Laravel` `MVC`
+Tour management, inquiry handling and dynamic content for international travel booking.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/> </a> <a href="https://laravel.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="50" height="50"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> </a> <a href="https://httpd.apache.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="apache" width="50" height="50"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a> <a href="https://github.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="50" height="50"/> </a> <a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="50" height="50"/> </a> <a href="https://redis.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="50" height="50"/> </a>
@@ -30,3 +42,14 @@ Currently deepening my toolkit with Redis, Docker, PHPUnit and Laravel Queues. O
 <a href="https://github.com/AmrKhaledEl-gamal">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AmrKhaledEl-gamal&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
 </a>
+
+<a href="https://github.com/AmrKhaledEl-gamal">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AmrKhaledEl-gamal&theme=blueberry" width="380"/>
+</a>
+</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+<p align="center">
+    <a href="https://github.com/AmrKhaledEl-gamal"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmrKhaledEl-gamal&theme=tokyonight&hide_border=true" width="520" alt="Amr Khaled El-Gamal"/></a>
+<a href="https://github.com/AmrKhaledEl-gamal"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=AmrKhaledEl-gamal&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="320" alt="Amr Khaled El-Gamal"/></a>
+</p>
