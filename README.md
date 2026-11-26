@@ -1,53 +1,32 @@
-# Amr Khaled El-Gamal
+<h1 align="center">Hi, I'm Amr Khaled El-Gamal 👋</h1>
+<h3 align="center">Back-End Developer | PHP & Laravel<br>Building multi-tenant SaaS, REST APIs and production systems from Egypt 🇪🇬</h3>
 
-**Back-End Developer** | PHP & Laravel
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AmrKhaledEl-gamal&label=Profile%20views&color=0e75b6&style=flat" alt="AmrKhaledEl-gamal" /> </p>
 
-I design and ship production backend systems: multi-tenant SaaS, REST APIs and VPS deployments. Co-founder at LuminaDevEg.
+- 🏗️ Co-Founder & System Architect at <a href="https://luminadeveg.com/">**LuminaDevEg**</a>
+- 💼 Back-End Developer at **Almobtaker Alaraby** (Remote)
+- 🌐 Portfolio: <a href="https://www.amrkhaledelgamal.com">**amrkhaledelgamal.com**</a>
+- 📫 Reach me: <a href="mailto:dev.amrelgamal@gmail.com">**dev.amrelgamal@gmail.com**</a>
+- 🎓 CS & Mathematics, Damanhour University - Expected Jun 2026
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-amrkhaledelgamal.com-0D7377?style=flat-square)](https://www.amrkhaledelgamal.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Amr_Khaled_El--Gamal-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/amr-khaled-el-gamal/)
-[![Email](https://img.shields.io/badge/Email-dev.amrelgamal-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:dev.amrelgamal@gmail.com)
+<h3>About Me</h3>
+<p>
+Back-end developer focused on PHP and Laravel, building production systems that hold up under real load: multi-tenant SaaS platforms, JWT-secured REST APIs, and full VPS deployments on Linux.
 
----
+I co-founded LuminaDevEg, an AI-powered software startup, and I work remotely as a back-end developer at Almobtaker Alaraby, alongside freelance systems for local and international clients. My approach is simple: design the schema first, keep the code readable, and treat performance and security as features, not afterthoughts.
 
-## Experience
+Currently deepening my toolkit with Redis, Docker, PHPUnit and Laravel Queues. Open to back-end roles and select freelance projects - let's build something solid.
+</p>
 
-| Role | Focus | Stack | Period |
-|---|---|---|---|
-| Co-Founder & System Architect, LuminaDevEg | AI-powered software startup | Laravel, PHP, MySQL, VPS | Aug 2025 - Present |
-| Back-End Developer, Almobtaker Alaraby (Remote) | Production systems, VPS deployment | Laravel, JWT, Apache | Jul 2025 - Present |
-| Freelance Back-End Developer | Client systems, local & international | Laravel, REST APIs, Design Patterns | Jun 2024 - Present |
+<br>
 
-## Featured Work
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/> </a> <a href="https://laravel.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="50" height="50"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> </a> <a href="https://httpd.apache.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="apache" width="50" height="50"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a> <a href="https://github.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="50" height="50"/> </a> <a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="50" height="50"/> </a> <a href="https://redis.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="50" height="50"/> </a>
+</p>
 
-**MK Agency - Multi-Dashboard CRM** `Laravel` `JWT` `MySQL`
-CRM platform with 4 interconnected dashboards and 20+ API endpoints, JWT-secured role-based access.
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>GitHub Stats</b>
 
-**Pheron Logistics - Enterprise Enhancements** `Laravel` `Analytics`
-Extended 6 production systems for one of Egypt's largest logistics companies: CRUD operations, analytics charts, custom workflows.
-
-**Leo Jewelry - E-Commerce Backend** `Laravel` `MVC`
-Product management, category filtering, inventory logic and navigation for an international store.
-
-**Atlas Tours - Travel Booking Backend** `Laravel` `MVC`
-Tour management, inquiry handling and dynamic content for international travel booking.
-
-## Stack
-
-**Backend:** PHP, Laravel, MySQL, Eloquent, OOP, SOLID, Design Patterns
-**APIs & Auth:** REST, JWT, Sanctum, Postman
-**Infrastructure:** Linux, Apache/Nginx, VPS deployment, Git, GitHub Actions
-**Currently deepening:** Redis, Docker, PHPUnit, Laravel Queues
-
-## Education
-
-B.Sc. Computer Science & Mathematics, Damanhour University - Expected Jun 2026, GPA 3.2
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmrKhaledEl-gamal&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmrKhaledEl-gamal&layout=compact&theme=dark&hide_border=true)
-
----
-
-*A backend is only as good as its worst bottleneck. I design from the database up.*
+<p align="center">
+<a href="https://github.com/AmrKhaledEl-gamal">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AmrKhaledEl-gamal&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+</a>
