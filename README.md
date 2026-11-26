@@ -6,7 +6,7 @@
 🏗️ **Junior Backend Engineer**  @ [LuminaDevEg](https://luminadeveg.com/)
 Building scalable APIs and production backend systems with PHP & Laravel.
 
-📍 Egypt, Damanhour  |  🎓 CS @ Damanhour University · GPA: 3.169
+📍 Egypt, Damanhour  |  🎓 CS @ Damanhour University · GPA: 3.2
 📫 dev.amrelgamal@gmail.com  |  📱 +201500018687
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amr-khaled-el-gamal/)
