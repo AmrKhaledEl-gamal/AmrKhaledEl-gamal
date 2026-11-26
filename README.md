@@ -44,7 +44,7 @@ Tour management, inquiry handling and dynamic content for international travel b
 </a> -->
 
  <a href="https://github.com/AmrKhaledEl-gamal">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AmrKhaledEl-gamal&theme=blueberry" width="380"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AmrKhaledEl-gamal&theme=blueberry" width="740"/>
 </a> 
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
