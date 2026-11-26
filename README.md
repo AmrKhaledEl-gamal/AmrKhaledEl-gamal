@@ -7,7 +7,7 @@
 - 💼 Back-End Developer at **Almobtaker Alaraby** (Remote)
 - 🌐 Portfolio: <a href="https://www.amrkhaledelgamal.com">**amrkhaledelgamal.com**</a>
 - 📫 Reach me: <a href="mailto:dev.amrelgamal@gmail.com">**dev.amrelgamal@gmail.com**</a>
-- 🎓 CS & Mathematics, Damanhour University - Expected Jun 2026
+- 🎓 BSc Computer Science & Mathematics, Damanhour University — Class of 2026
 
 <h3>About Me</h3>
 <p>
